@@ -1,0 +1,24 @@
+Hi Srinivas and Vijay,
+TASK:
+ DAY1(24/1/19)
+BASIC LINUX COMMANDS(2.1 to 2.10)
+DAY2(25/1/19)
+a. BASICS OF CODE NAVIGATION , EDITOR FEATURES,SHELL COMMANDS.
+b. 2.11 to 2.12 LINUX COMMANDS
+c. HARD LINK and SOFT LINK
+Learnt:
+ DAY1(24/1/19)
+1. Learnt the basics of shell, kernel,CLI in LINUX.
+2. Learnt about the types of scripting ( c-shell, bash,KSH)
+3. Learnt basic linux commands like ( CD, PWD,CHMOD,LS,TOUCH,MKDIR,
+RMDIR,CHOWN etc)
+4. Basics of VIM editor.
+ DAY2(25/1/19)
+1. learnt CTAGS and CSCOPE in CODE NAVIGATION.
+2. Learnt use of WILDCARDS(*, &, [ ])
+3. learnt use of shell variables like PATH,SHELL etc.
+4. learnt TEE, SED, GREP, MAN,ECHO,APPEND SLEEP, WATCH.
+5. learnt SYSTEM MONITORING COMMANDS( uptime, pstree, kill )etc
+
+PENDING ( 24/1/19 , 25/1/19)
+a. HARD LINK and SOFT LINK.

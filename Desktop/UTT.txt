@@ -1,0 +1,14 @@
+1. How to get your own defined Environmental variables in all console tabs with different shell. Demonstrate with valid example?
+sol:-
+
+
+
+1.find the processor and No of Cores in that processor of your laptop?
+sol:-	for Number of cores   -$ lscpu
+	for Vendor and model of the processor -$ cat /proc/cpuinfo | grep vendor | uniq
+	for Multiple Processor -$ cat /proc/cpuinfo | grep -i 'physical id' | uniq
+
+2.find the Hard Disk size and Ram size of your laptop?
+sol:-	for Ram size  -$ free -m (m= is used for mb)
+	for hardisk  -$ df 
+
